@@ -1,0 +1,8 @@
+# This is a gitignore file to ignore the .env file
+
+/.env
+/ivanti-pdi.py
+/pyvenv.cfg
+/.venv
+/bin
+/lib
